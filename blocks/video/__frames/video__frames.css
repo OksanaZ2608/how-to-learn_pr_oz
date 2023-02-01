@@ -1,0 +1,10 @@
+.video__frames {
+  padding: 0;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -10px;
+  transform: translateY(60px);
+  display: flex;
+  gap: 20px;
+}

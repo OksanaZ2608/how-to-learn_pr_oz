@@ -1,7 +1,0 @@
-.video__frame {
-    margin: 0;
-  }
-  
-  .video__frame:last-child {
-    margin-left: 20px;
-  }
