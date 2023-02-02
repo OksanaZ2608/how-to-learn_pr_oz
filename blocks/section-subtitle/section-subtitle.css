@@ -5,6 +5,5 @@
   font-weight: normal;
   margin-top: 20px;
   margin-bottom: 0;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
